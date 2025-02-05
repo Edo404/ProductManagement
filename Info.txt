@@ -11,3 +11,11 @@ from digital products (web mobile app)
 - fuels growth and rapid experimentation and iteration
 - helps drive successful digital transformation
 
+software capabilities:
+- teams can track and report users behavior
+- allows to enroll multiple data points to dashboard
+
+Actions:
+- determine if your company has a way to track user behavior
+- think how your team could benefit from product analytics and
+dedicated product analytics tool
