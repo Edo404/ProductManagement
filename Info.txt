@@ -1,0 +1,13 @@
+-----Product Analytics-----
+Process of capturing and analyzing how users interact
+with the Product
+
+tool that captures and exposes usage patterns
+from digital products (web mobile app)
+
+- uncovers insights about software users
+- enables data-driven decision making
+- allows product teams to understand the ROI of their work
+- fuels growth and rapid experimentation and iteration
+- helps drive successful digital transformation
+
