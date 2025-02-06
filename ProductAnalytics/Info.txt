@@ -19,3 +19,17 @@ Actions:
 - determine if your company has a way to track user behavior
 - think how your team could benefit from product analytics and
 dedicated product analytics tool
+
+--------------
+Setting Goals:
+- Understand engagement: how user is using my product , is using the feature?
+- Facilitate Conversation with Stakeholders: data makes conversation easier
+
+goals of analytics:
+- build right products and features
+- reduce friction
+- increase revenues
+- drive more innovation
+
+
+
