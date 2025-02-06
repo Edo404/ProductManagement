@@ -1,35 +1,36 @@
 -----Product Analytics-----
-Process of capturing and analyzing how users interact
-with the Product
 
-tool that captures and exposes usage patterns
-from digital products (web mobile app)
+---Introduction---
+Process of capturing and analyzing how users interact with the product
 
-- uncovers insights about software users
-- enables data-driven decision making
-- allows product teams to understand the ROI of their work
-- fuels growth and rapid experimentation and iteration
-- helps drive successful digital transformation
+Tool that captures and exposes usage patterns from digital products (web mobile app)
 
-software capabilities:
-- teams can track and report users behavior
-- allows to enroll multiple data points to dashboard
+- Uncovers insights about software users
+- Enables data-driven decision making
+- Allows product teams to understand the ROI of their work
+- Fuels growth and rapid experimentation and iteration
+- Helps drive successful digital transformation
+
+Software capabilities:
+- Teams can track and report users behavior
+- Allows to enroll multiple data points to dashboard
 
 Actions:
-- determine if your company has a way to track user behavior
-- think how your team could benefit from product analytics and
-dedicated product analytics tool
+- Determine if your company has a way to track user behavior
+- Think how your team could benefit from product analytics and dedicated product analytics tool
 
---------------
+
+---Strategy---
+
 Setting Goals:
 - Understand engagement: how user is using my product , is using the feature?
 - Facilitate Conversation with Stakeholders: data makes conversation easier
 
-goals of analytics:
-- build right products and features
-- reduce friction
-- increase revenues
-- drive more innovation
+Goals of analytics:
+- Build right products and features
+- Reduce friction
+- Increase revenues
+- Drive more innovation
 
 
 
