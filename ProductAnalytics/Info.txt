@@ -32,5 +32,18 @@ Goals of analytics:
 - Increase revenues
 - Drive more innovation
 
+10 questions:
+- How many active users I have today/last week/ last month?
+- How do users use my product?
+- Which feature is more used?
+- Are users finding important parts of the product easily?
+
+- Usage of key features is increasing or decreasing over time?
+- Which features and pages cause problems?
+- Which features and pages users ignore? 
+
+- How frequently user are going back in the product?
+- How many users continue using the product after first months?
+- How many users who interact with the features come back?
 
 
