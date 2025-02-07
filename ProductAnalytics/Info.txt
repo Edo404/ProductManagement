@@ -46,4 +46,27 @@ Goals of analytics:
 - How many users continue using the product after first months?
 - How many users who interact with the features come back?
 
+Metrics:
+Standard of measurements by which efficiency, performance, progress, 
+or quality of a product can be assessed
+
+Business Outcomes - How product impact financial Outcomes
+Product usage - How users behave inside the product
+Product quality - How the product is going instead of how it is supposed to do
+
+Lagging Indicators - Metrics that are healty for business but the results arrive in long term (customer renewals)
+Leading Indicators - Metrics measurable in short term, high probability to affect Lagging (monthly active users)
+
+- Specific
+- Measurable
+- Actionable
+- Relevant
+- Timely
+
+OKRs - What are we focused on now? 
+KPIs - Are we ok?
+One Metric That Matters - Does what we're working on contribute to this metric?
+North Star Metric - Does what we're working on contribute to our primary metric?
+Check Metrics - Will focusing on this metrics create downsides?
+
 
