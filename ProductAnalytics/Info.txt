@@ -69,4 +69,11 @@ One Metric That Matters - Does what we're working on contribute to this metric?
 North Star Metric - Does what we're working on contribute to our primary metric?
 Check Metrics - Will focusing on this metrics create downsides?
 
+Product Analytics strategy best practices:
+- Start with your goals
+- Don't create your analytics strategy in a silo
+- Invest in data management
+- Establish naming convention
+- Enable entire organization with analytics
+- Integrate analytics data with the rest of the business
 
