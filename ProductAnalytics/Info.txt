@@ -54,7 +54,7 @@ Business Outcomes - How product impact financial Outcomes
 Product usage - How users behave inside the product
 Product quality - How the product is going instead of how it is supposed to do
 
-Lagging Indicators - Metrics that are healty for business but the results arrive in long term (customer renewals)
+Lagging Indicators - Metrics that are healthy for business but the results arrive in long term (customer renewals)
 Leading Indicators - Metrics measurable in short term, high probability to affect Lagging (monthly active users)
 
 - Specific
@@ -78,10 +78,71 @@ Product Analytics strategy best practices:
 - Integrate analytics data with the rest of the business
 
 Your core team, the most contentious people, leadership, partners and other teams
-Re-examinate your product analytics strategy once a year
+Re-examine your product analytics strategy once a year
 
 Qualitative data:
-Quantitative + Qualitative
+Quantitative + Qualitative (Ex. usage - quantitative, feedback - qualitative)
 Use quantitative data to identify people from whom you then want to collect qualitative data
 Cross reference qualitative feedback with quantitative usage data from those users and accounts
+
+
+---Framework---
+
+Prioritization:
+Also for prioritization, data analytics important to guide your decisions
+- Collect data
+- Refine data in metrics
+- Build metrics in reports 
+- Take action
+- Data Actualization
+
+Collect data:
+- Information about people who use product (visitors, accounts)
+- Information about people behavior (events, clicks, page loads)
+
+- Finding right data
+- Making sure you can access
+- Getting that into a tool to analyze
+
+Refine data in metrics:
+- Breadth: how many users
+- Depth: how much of the product are customers using
+- Frequency: how often users log in 
+
+Challenge 1 - which metrics to use
+Challenge 2 - different people = different interpretation of same metrics
+Challenge 3 - get people across business to agree on metrics
+
+- Identify stakeholders
+- Define goals of product
+- Invite stakeholders to collaborate on product
+- Create plan to analyze 
+
+Build metrics in reports:
+Establish tables and graphs to describe user behavior
+- Allows to see metrics fluctuate over time
+- Identify areas for improvements 
+
+- Path: sequence of events and actions
+- Funnel: sequence of steps by features
+- Retention: percentage of users that are using on a time period the product
+
+Take actions:
+Analysis
+- Review data
+- Ask questions
+- Build hypotheses
+- Try to find answers
+
+Dashboards
+- Collection of reports and widgets
+
+Storytelling
+- Most data benefit from a story
+- Many product teams deliver insights in a slide deck
+
+Data actualization:
+- Accurate and clean actionable data
+- Ability to ask and answer harder questions
+- Learn on 'gut feel' only in particular situations
 
