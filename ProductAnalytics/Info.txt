@@ -146,3 +146,33 @@ Data actualization:
 - Ability to ask and answer harder questions
 - Learn on 'gut feel' only in particular situations
 
+
+---In Practice---
+
+Aha moments
+When customer recognize distinct value of your product
+(Ex. Facebook, when a user connected to > 10 users in < 7 days)
+- What are most valuable features
+- Which features are aha moments
+
+Defining what success look like
+- Year long retention
+- Week 2 retention
+- Users recommending product
+- Users inviting users 
+- Users becoming NPS
+
+Prioritization of team's work
+- Prioritize feature requested based on product usage
+- Cross-reference feedback and request with usage
+
+Measuring success of new features
+If users are interacting with the new feature
+- Improve adoption for users who have already engaged with a feature
+- Increase adoption for users who haven't engaged with a feature
+
+Taking actions
+- Increase visibility of the feature
+- Improve adoption so more users are aware of the feature
+- Make improvements on the feature
+
