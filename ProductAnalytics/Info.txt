@@ -176,3 +176,37 @@ Taking actions
 - Improve adoption so more users are aware of the feature
 - Make improvements on the feature
 
+Identify friction
+Friction: anything gets in the way of a user's ability to achieve
+their objective or job to be done
+
+- User dropping out workflows with Funnel and Session Replay
+- Low usage of key features with feedback
+- Support ticket topics with usage data
+
+Sunsetting features
+The most strategic move your team can make is sometimes to
+remove a feature from the user interface or retire products
+
+- More streamlined user experience
+- Increased efficiency
+
+- Low and dwindling feature usage over time
+- New features that replace older functionalities
+- Feedback
+
+Step 1: Understand product usage
+Step 2: Dig into engagement
+Step 3: Look at different segment of the user base
+Step 4: Leverage feedback to understand the why
+Step 5: Monitor the impact
+
+Internal communications
+- Make sure team knows about sunset
+- Communicate timelines
+
+External communications
+- Give advance notice of sunset
+- Provide education on alternatives to utilize
+- Any necessary migration instructions
+
