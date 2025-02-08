@@ -210,3 +210,22 @@ External communications
 - Provide education on alternatives to utilize
 - Any necessary migration instructions
 
+
+---Make business case---
+
+Instead of determining the right features to build, product leaders are tasked
+with making decisions that tie to overall business strategy
+
+Business case
+Document that describes the why of any piece of work
+- Investing in the usability of the product
+- Investing in innovation
+- Where to focus your adoption efforts
+
+- Who is the target audience
+- What pain is this addressing?
+- What is the desired outcome?
+
+- Revenues
+- Cost
+- Risk
