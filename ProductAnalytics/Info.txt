@@ -229,3 +229,65 @@ Document that describes the why of any piece of work
 - Revenues
 - Cost
 - Risk
+
+
+---Best practices---
+
+- Lacking visibility into product usage
+- Relying on manual and inefficient ways to get product data
+- Having no way to understand what drives churn, retention, or growth
+
+Startups:
+- Find product-market fit
+- Learn about your early users and their behavior
+- Develop a minimum viable product (MVP)
+
+Medium:
+- Scale more efficiently
+- Improve your product
+- Increase retention and conversion and decrease churn
+
+Big:
+- Improve your product so that you stay competitive
+- Connect data from multiple sources across your business
+
+- Choose a product analytics tool that is designed for your product
+- Choose a product analytics tool that best serves the consumer of your data
+- Choose a product analytics tool that aligns with the type of software 
+you're building and how it's used
+
+- A user-friendly interface
+- Codeless instrumentation
+- The ability to connect data to other systems
+- Integrations with other tools in your tech stack
+- The ability to correlate with qualitative feedback
+
+Buyer stakeholders
+Leaders from various teams who should be
+brought along throughout the purchase process
+
+User stakeholders
+The teams and contributors who will be able
+to leverage this new tool to do their jobs better
+
+- Drive revenue
+- Reduce costs
+- Mitigate risk
+
+Revenue
+Understanding how customers use the product enables you to give
+them more of what they want, which leads to happier, long-term
+customers-and more of them
+
+Cost
+A product analytics solution is more efficient than what your team
+could do on its own
+
+Risk
+Knowing what types of users are engaging with certain areas
+of your product helps you make better decisions around what to
+build or iterate on, which leads to higher adoption and retention
+
+- People
+- Process
+- Technology
