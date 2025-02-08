@@ -77,3 +77,11 @@ Product Analytics strategy best practices:
 - Enable entire organization with analytics
 - Integrate analytics data with the rest of the business
 
+Your core team, the most contentious people, leadership, partners and other teams
+Re-examinate your product analytics strategy once a year
+
+Qualitative data:
+Quantitative + Qualitative
+Use quantitative data to identify people from whom you then want to collect qualitative data
+Cross reference qualitative feedback with quantitative usage data from those users and accounts
+
