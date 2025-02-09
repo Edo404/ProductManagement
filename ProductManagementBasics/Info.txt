@@ -1,4 +1,59 @@
 -----Product Management Basics-----
 
 ---Introduction---
+Product Manager
+Synthesize inputs from customers, internal stakeholders, and the market 
+in order to identify the right product or features to build.
+
+- Setting the product's mission and vision
+- Aligning stakeholders around the product vision
+- Shipping great software that delights users
+- Deeply understanding customers and their problems
+- Deeply understanding business goals and defining success
+- Prioritizing what to build next
+- Monitoring industry trends and competitors
+
+- Technical Product Manager
+- Platform Product Manager
+- Growth Product Manager
+- Enterprise Product Manager
+- AI Product Manager
+
+- Possess business acumen, not just technical acumen
+- Are good leaders and communicators
+- Root decisions in data over gut feel
+- Are outcomes-driven
+- Balance innovation with upkeep
+
+Organization and Partners
+CPO
+Product owner
+Product designer
+Engineer
+Product operations
+Product marketing Manager
+
+Works with
+- Customer success and support
+- Marketing
+- Sales
+
+- Roadmapping (pendo)
+- Project management (jira, monday, asasna)
+- Collaboration (slack)
+- Design e prototype (Figma)
+- Product analytics (pendo)
+- User testing (user testing)
+- User feedback (pendo)
+- Onboarding (pendo, intercome)
+- Business intelligence (tablo)
+- Experimenting e features (optimizely)
+- Session reply (fullstory, pendo)
+- Knowledge base (confluence)
+
+Challenge 1: influencing without authority - present data to support your idea
+Challenge 2: prioritization - utilizing quantitative and qualitative data
+Challenge 3: managing multiple stakeholders - communicate clearly and regularly
+Challenge 4: budget constraints - ensure what you are working on is gonna deliver positive business outcome
+Challenge 5: constant change - stay nimble and curious
 
