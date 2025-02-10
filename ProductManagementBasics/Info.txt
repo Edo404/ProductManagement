@@ -1,6 +1,7 @@
 -----Product Management Basics-----
 
 ---Introduction---
+
 Product Manager
 Synthesize inputs from customers, internal stakeholders, and the market 
 in order to identify the right product or features to build.
@@ -60,4 +61,17 @@ Challenge 5: constant change - stay nimble and curious
 - Massive scale
 - Established markets
 - Focus on ROI
+
+
+---Lifecycle---
+
+- Define business outcome
+- Phase1: Discover - pain points
+- Phase2: Validate - determinate right solutions
+- Phase3: Build - engineers and designers
+- Phase4: Launch - marketing
+- Phase5: Evaluate
+- Phase6: Iterate - how can improve
+
+
 
