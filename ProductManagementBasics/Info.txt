@@ -65,7 +65,7 @@ Challenge 5: constant change - stay nimble and curious
 
 ---Lifecycle---
 
-- Define business outcome
+- Phase0: Define business outcome
 - Phase1: Discover - pain points
 - Phase2: Validate - determinate right solutions
 - Phase3: Build - engineers and designers
@@ -73,5 +73,12 @@ Challenge 5: constant change - stay nimble and curious
 - Phase5: Evaluate
 - Phase6: Iterate - how can improve
 
-
+- Leverage meaningful quantitative and qualitative data to understand customer pain and
+challenges
+- Can easily pressure test ideas with customers using in-app prompts and surveys
+- Proactively communicate priorities using a product roadmap that is shared and 
+accessible across the organization
+- Engage users with in-app launch campaigns and ongoing education to drive adoption
+- Combine product usage data with business data to understand a feature's success and impact
+- Iterate quickly and often, creating a continuous loop of product innovation and improvement
 
