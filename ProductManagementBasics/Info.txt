@@ -84,3 +84,9 @@ accessible across the organization
 - Combine product usage data with business data to understand a feature's success and impact
 - Iterate quickly and often, creating a continuous loop of product innovation and improvement
 
+Focusing on problem 
+Why do they want this feature?
+What are we trying to accomplish by doing this?
+Is the solution we're thinking of actually the right way to solve the problem?
+Could we solve the problem in a different way that's better for more users?
+
