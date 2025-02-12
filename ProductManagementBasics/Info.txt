@@ -90,3 +90,16 @@ What are we trying to accomplish by doing this?
 Is the solution we're thinking of actually the right way to solve the problem?
 Could we solve the problem in a different way that's better for more users?
 
+- Understand problem
+- Identify solution
+
+What does the workflow of our core user look like?
+What do our successfully retained users do in the product?
+Where do users we don't retain drop out of the product?
+What are customers actually trying to accomplish?
+
+Data
+Helps illuminate if and how people are using your product, which features they do and 
+don't engage with, where users drop out of key workflows, and what different segments of
+users do differently.
+
