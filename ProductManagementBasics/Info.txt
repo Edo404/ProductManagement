@@ -84,7 +84,7 @@ accessible across the organization
 - Combine product usage data with business data to understand a feature's success and impact
 - Iterate quickly and often, creating a continuous loop of product innovation and improvement
 
----Finding solution---
+---Understanding problems---
 
 Why do they want this feature?
 What are we trying to accomplish by doing this?
@@ -124,4 +124,43 @@ Where do different types of users fall off?
 What do power users do differently?
 
 
+---Finding solution---
+
+The closer you get to being right the first time, the less developer resources
+you waste and the faster you achieve your business outcome.
+
+Validation
+The process of gathering evidence and verifying whether an idea for a product or feature meets
+the desired objectives and fulfills users' needs.
+
+What outcomes are resonating most with customers?
+How can we best solve for our customers' pain?
+What don't we know about customers' workflows that may help in building the solution?
+How do we curate a diverse set of customers for interviews?
+What pain is so deep that customers would pay for a solution?
+
+- Helps you prioritize which solutions to build
+- Helps teams invest resources in the right areas of the product
+- Helps you better manage stakeholders
+
+How to validate product ideas:
+Product usage data
+In-app surveys or polls
+Market research and surveys
+Willingness to pay surveys
+Feedback management platform
+
+Happens up front before building anything, e.g. with prototype or usability testing
+Fake door test: Inviting customers to use a feature that isn't released yet to see how many of them are interested in it
+
+Putting things into the product to see how they work 
+Making functionality available to a small subset of your user base before going into a deeper build
+A/B test: Putting out two versions of a feature and seeing which performs better
+
+- Choose the right type of experiment
+- Target right user
+- Use data to evaluate success
+
+
+---Delivering continuous value---
 
