@@ -84,7 +84,8 @@ accessible across the organization
 - Combine product usage data with business data to understand a feature's success and impact
 - Iterate quickly and often, creating a continuous loop of product innovation and improvement
 
-Focusing on problem 
+---Finding solution---
+
 Why do they want this feature?
 What are we trying to accomplish by doing this?
 Is the solution we're thinking of actually the right way to solve the problem?
@@ -102,4 +103,25 @@ Data
 Helps illuminate if and how people are using your product, which features they do and 
 don't engage with, where users drop out of key workflows, and what different segments of
 users do differently.
+
+What features do retained customers engage with the most?
+Do you see usage patterns in the rest of your user base?
+Where did users who churned drop out of workflows?
+
+The process of gathering and analyzing information about software users to gain insights 
+into their behaviors, needs, motivations, and preferences.
+
+Also referred to as exploratory research, product managers usually conduct this during the 
+discovery phase to get the lay of the land and gain a contextual understanding of their users.
+- User interviews
+- User surveys
+- Card sorting 
+
+What do customers want us to build and why?
+Are users doing what we expect in the product? If not, why?
+Where do different types of users fall off?
+
+What do power users do differently?
+
+
 
