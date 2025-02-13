@@ -177,3 +177,16 @@ Include any assumptions
 Link to relevant user stories
 Include relevant design information
 
+- Product manager
+- Product designer
+- Engineers
+
+Prioritize what gets built
+Ensure alignment with vision
+Communicate pivots in direction
+Help them be self-sufficient
+
+Epic
+A body of work that can be broken down into specific tasks, based on the needs
+of customers and end users.
+
