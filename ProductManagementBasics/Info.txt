@@ -181,6 +181,7 @@ Include relevant design information
 - Product designer
 - Engineers
 
+With Engineers:
 Prioritize what gets built
 Ensure alignment with vision
 Communicate pivots in direction
@@ -190,3 +191,23 @@ Epic
 A body of work that can be broken down into specific tasks, based on the needs
 of customers and end users.
 
+- Communicate the why
+- Be decisive
+- Learn how engineers do best work
+- Clarify responsibility
+- Invest in relationship
+
+With Product designers:
+- Clarify requirements
+- Provide feedback
+- Serve as the bridge for other teams
+- Collect customer feedback
+
+A visual method for outlining the work requirements that will achieve the best end-user experience
+As a [type of user] , I want to [action] so that [benefit]
+
+- Get designer involved
+- Explain reasons behind decisions
+- Respect visions
+- Create ongoing feedback loops
+- Foster effective communication
