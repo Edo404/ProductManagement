@@ -164,3 +164,16 @@ A/B test: Putting out two versions of a feature and seeing which performs better
 
 ---Delivering continuous value---
 
+- Waterfall (80% testing 20% release)
+- Agile (sprint e release x2)
+- Continuous delivery (release, new functionality, bug fix, updates) 
+
+Outlines what capabilities need to be included in a release so that design and development teams
+know what they need to design and build
+
+Document key project information
+Note your objective
+Include any assumptions
+Link to relevant user stories
+Include relevant design information
+
