@@ -226,3 +226,48 @@ Create a single source of truth for the roadmap that teams can access on their o
 
 ---Launch---
 
+An iterative approach to releasing products and features requires 
+continuous, coordinated launches
+
+How can I make sure users know about a new feature?
+How do I ensure readiness internally across the company?
+How do I educate users on the value of new functionality?
+How can I help users adopt a new feature?
+
+- Size of the release
+- Relevance
+- Desired action
+
+External:
+Announce the release to current users
+Include in content marketing, social media, conference announcements, PR, demand
+generation, sales enablement
+
+Internal:
+Ensure customer and prospect-facing teams know what you're releasing
+Enable teams to explain and answer questions about new functionality
+
+Feature flags:
+Turning features on and off during a release
+
+Opt-in:
+Giving users the ability to opt into trying a new feature
+
+Pilot program:
+Having a group of users try out a product or feature for a set period of time
+
+1% or 10% tests:
+Testing new functionality with a certain percentage of your user base
+
+- Set launch goals
+- Build segments
+- Track product usage post-launch
+
+Bring launch announcements in-app
+Target communications to the right users
+Indicate the next action users should take
+Use product data to measure success
+
+
+---Evaluate---
+
