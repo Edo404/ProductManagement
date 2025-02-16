@@ -271,3 +271,40 @@ Use product data to measure success
 
 ---Evaluate---
 
+Tracking and analyzing quantitative product usage data
+Continuing to collect qualitative data
+
+Are users finding and trying this improvement?
+Are we meeting adoption goals?
+Where are users getting stuck?
+What qualitative feedback are we receiving?
+
+- Adoption rate
+- Feature use and engagement
+- Conversion rate
+
+Paths
+Funnels
+Session reply
+
+User surveys
+User interviews
+In app feedback
+
+Customer support
+Social media
+Customer sentiment
+
+
+---Iterate---
+
+How can we improve the product experience?
+Do we need to tweak our goals or focus?
+Should we double down on what's really working?
+Are R&D teams working on the right projects?
+Is this moving us closer to achieving our business goal?
+
+Most new features and products require at least some iteration
+
+- Build time into your roadmap for iteration
+- Set expectations upfront with your manager about the metric you're trying to move
