@@ -1,4 +1,3 @@
-Prova Cell
 -----Product Management Basics-----
 
 ---Introduction---
@@ -212,3 +211,18 @@ As a [type of user] , I want to [action] so that [benefit]
 - Respect visions
 - Create ongoing feedback loops
 - Foster effective communication
+
+Socialize your roadmap and explain the "why" behind what you're building
+Sales: How will this new feature make it easier for them to sell the product?
+Customer support: How might what youʼre building help drive down support tickets
+and calls? Is it solving a common instance of user friction?
+Leadership: How will the new product or feature impact business outcomes like customer retention or revenue?
+
+Create a single source of truth for the roadmap that teams can access on their own
+- For leadership
+- For your customer
+- For internal teams
+
+
+---Launch---
+
