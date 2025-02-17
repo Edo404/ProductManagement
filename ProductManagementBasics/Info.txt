@@ -308,3 +308,5 @@ Most new features and products require at least some iteration
 
 - Build time into your roadmap for iteration
 - Set expectations upfront with your manager about the metric you're trying to move
+
+Certification gotten 😁
