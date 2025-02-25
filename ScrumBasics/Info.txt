@@ -1,5 +1,7 @@
 -----SCRUM-----
 
+--Problems to solve
+
 Impossible to know how the project is gonna develop
 
 Agile: spirito di adattamento alla situazione
@@ -11,4 +13,11 @@ it's impossible to know everything is going to happen.
 - Work with business partners throughout a project
 - Measure success using completed software
 - Allow teams to self organize
+
+Fail FAST = Learn FAST
+
+Scrum as guardrails, not straight but it gives you the directions
+- Short cycles (2 weeks) to develop and test solutions, allowing for regular feedback and adjustments.
+
+--Framework
 
