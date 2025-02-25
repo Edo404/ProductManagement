@@ -21,3 +21,30 @@ Scrum as guardrails, not straight but it gives you the directions
 
 --Framework
 
+Waterfall: Time, Cost, Scope
+Agile: the SCOPE is the only thing that is no locked
+Scrum: Product Owner + Scrum Master, Daily Standup + Retrospective
+
+Product Owner (PO):
+- Business representative
+- Reviews team Work
+- Ensure highest value
+- Interacts with stakeholders
+- Maintains the product vision
+
+Scrum Master:
+- Protects Team and Process
+- Keeps team working in peace
+- Acts as spokesperson for the team
+- Helps remove roadblocks
+- Holds team accountable to PO
+
+
+- Collaboration, in the same room or Video conferencing
+
+Team composition:
+- 7 +- 2 members
+- T-shaped skills, vertical one and horizontal one
+- Norms: when laptop should use in meeting, agree/disagree with task
+
+
