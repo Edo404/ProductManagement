@@ -1,0 +1,14 @@
+-----SCRUM-----
+
+Impossible to know how the project is gonna develop
+
+Agile: spirito di adattamento alla situazione
+Scrum: divisione degli obiettivi in piccoli obiettivi minori
+
+Agile Manifesto revolution from Waterfall that was not good in software development because
+it's impossible to know everything is going to happen.
+
+- Work with business partners throughout a project
+- Measure success using completed software
+- Allow teams to self organize
+
