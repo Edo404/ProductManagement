@@ -99,6 +99,9 @@ Daily Standup:
 - Communication
 - cadence
 
+Backlog changes:
+refinement sessions calls
+
 
 
 
