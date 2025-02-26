@@ -48,3 +48,20 @@ Team composition:
 - Norms: when laptop should use in meeting, agree/disagree with task
 
 
+-- Ready to Work 
+
+MVP - minimum viable product
+- Fast feedback loop
+- Reduces scope creep
+
+Decomposition:
+- Identify themes (profile, order, payment..)
+    trigger the idea, group works for efficient 
+- Break themes for efficient features (login, security for the profile theme)
+
+User story:
+INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable)
+As a <User Role> I want <User requirement> so that <desired benefit>
+
+
+
