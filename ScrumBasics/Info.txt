@@ -103,6 +103,30 @@ Backlog changes:
 refinement sessions calls
 
 
+-- Warming up a sprint
+
+AC approval is from the PO
+during sprint team is checking work with the PO
+
+Sprint Reviews: pre-check before approval
+
+Demo: trial version not at the end of each sprint
+direct conversation with stakeholders, who is working on it, progresses
+
+Retrospective:
+- focus on the team
+- safe environment
+- team members only
+- team norms observed
+- open dialog
+
+Focus on Collaboration
+Focus on what did not work well
+Focus on what can be improved
+
+
+
+
 
 
 
