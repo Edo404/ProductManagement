@@ -63,5 +63,23 @@ User story:
 INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable)
 As a <User Role> I want <User requirement> so that <desired benefit>
 
+AC - acceptance criteria
+- customer name is captured and save
+- customer email and password are captured and save
+
+Team Boundaries:
+- definition done (minimum requirement for all the stories)
+- backlog refinement
+- sprint cadence (1-4 weeks, fail and learn fast)
+
+Actual estimate: specific, 30 km from A to B (how long it takes)
+Relative estimate: Giraffe twice tall than a zebra (estimate, Maintains mindset)
+
+Roadmap: order to work between all the themes
+Release plan: high level plan roadmap + sprint
+
+
+
+
 
 
