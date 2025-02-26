@@ -79,6 +79,27 @@ Roadmap: order to work between all the themes
 Release plan: high level plan roadmap + sprint
 
 
+-- Down to work
+
+Sprint planning meeting: 
+- Devs, PO, ScrumMaster
+- Understand the story
+- Post definition of done
+- Plan for questions
+at the end of each sprint
+
+Information radiators:
+Task Boards:
+- Task per story
+Sprint Burndown Chart:
+- sprint execution
+
+Daily Standup:
+- Collaboration
+- Communication
+- cadence
+
+
 
 
 
