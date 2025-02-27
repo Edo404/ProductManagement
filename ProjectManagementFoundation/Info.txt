@@ -1,0 +1,23 @@
+-- Project Management
+
+A project is a temporary endeavor with a unique goal and usually a budget.
+Projects have a definite beginning and end, unlike day-to-day operations.
+The goal of a project is to produce a unique result, such as a product, service, or other outcome.
+Projects often face constraints, including budgets and resource availability.
+
+Project management involves applying knowledge, skills, tools, and techniques to achieve project objectives.
+Key questions to answer in project management include:
+- What problem are you solving?
+- How are you going to solve it?
+- What's your plan for getting the project done?
+- How can you tell when you're done?
+- How well did the project go?
+
+Clearly defining objectives, requirements, and deliverables is crucial for project success.
+
+Project managers need technical skills specific to project management, such as building project plans, schedules, and measuring performance.
+Business expertise is crucial to ensure the project delivers value and aligns with the organization's goals.
+Problem-solving skills are essential as projects rarely go according to plan.
+Interpersonal skills are vital for leading diverse teams and ensuring effective collaboration.
+Strong leadership is the most important characteristic, inspiring and motivating the team to achieve project success.
+
