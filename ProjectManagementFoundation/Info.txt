@@ -21,3 +21,56 @@ Problem-solving skills are essential as projects rarely go according to plan.
 Interpersonal skills are vital for leading diverse teams and ensuring effective collaboration.
 Strong leadership is the most important characteristic, inspiring and motivating the team to achieve project success.
 
+Waterfall:
+The Waterfall project management lifecycle is divided into five stages: 
+Initiating
+Planning
+Executing
+Monitoring and Controlling
+Closing
+
+Initiating involves defining the project, identifying stakeholders, and obtaining approval to proceed.
+Planning answers the questions of what will be done, how it will be done, and how success will be measured.
+Executing involves launching the project and putting the plan into action with the full team.
+Monitoring and Controlling ensures the project stays on track by comparing progress to the plan and making necessary adjustments.
+Closing includes getting client approval, documenting performance, gathering lessons learned, and closing contracts.
+
+Agile:
+Agile projects use Sprints to deliver production-quality features at regular intervals, 
+allowing for early value delivery and customer feedback.
+The Agile lifecycle includes envisioning (defining the product vision and initial goals), 
+speculating (planning and prioritizing features), exploring (building and delivering features), 
+and adapting (reviewing results and lessons learned).
+Agile teams are typically smaller, highly skilled, and work with minimal supervision, 
+requiring greater customer involvement compared to traditional projects.
+
+Structures:
+Organizational Structure Types: Organizations can be structured as functional hierarchies, matrix organizations, 
+or projectized organizations, each affecting project performance differently.
+
+Functional Hierarchies: Projects are not a priority, making it difficult for project managers to succeed due to limited authority and resource availability.
+
+Matrix Organizations: These support projects more than functional hierarchies, with varying degrees of project emphasis 
+(weak, balanced, strong), giving project managers some authority.
+Projectized Organizations: These are centered around projects, giving project managers almost complete authority over their projects, 
+including budgets and dedicated resources.
+
+Organization:
+- Influence of Mission and Vision: Projects that align with the organization's mission and vision are likely to receive more attention and resources.
+- Leadership and Authority: The approach to leadership and delegation within the organization affects project management. 
+Clear goals and delegated responsibilities can facilitate project success.
+- Work Environment: A positive work environment motivates employees and simplifies gathering lessons learned, while a negative environment 
+requires more team management.
+- Rule-Following vs. Innovation: Some cultures prioritize strict adherence to rules, while others encourage innovation and new approaches. 
+Understanding these dynamics is crucial for project management.
+- Change Management: The organization's attitude towards risk and change influences the complexity of change management processes.
+- Cultural Differences: Team members from different cultural backgrounds may have varying reactions and communication styles, which need to be managed effectively.
+
+Tools:
+- Variety of Tools: There are various scheduling software tools like Microsoft Project, Oracle Primavera, LiquidPlanner, Jira, Smartsheet, 
+Wrike, and Asana, each with different strengths for Waterfall or Agile methodologies.
+- Essential Programs: Word processing and spreadsheet programs are essential for creating templates, performing calculations, and analyzing risks.
+- Collaboration Tools: Tools like Basecamp, Asana, and Microsoft SharePoint are useful for team collaboration and sharing files.
+- Enterprise Software: For organizations managing multiple large projects, enterprise project management software helps find resources, 
+track risks, and manage documents.
+
